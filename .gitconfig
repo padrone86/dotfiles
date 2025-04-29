@@ -1,0 +1,14 @@
+[user]
+	name = Shimpei Aoki
+	email = padrone86@gmail.com
+[alias]
+	sw = switch
+	alias = !git config --list | grep ^alias\\.
+	pl = pull -p
+	rb = rebase
+	pf = push --force-with-lease
+	br = branch
+	bd = branch -d
+	sta = stash
+	stp = stash pop
+
